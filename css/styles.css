@@ -151,8 +151,9 @@ h2 {
 }
 
 /* .sign-btn{
-margin: auto;
-} */
+padding-left: 100px;
+padding-right: 100px;
+}  */
 
 #footer-tag,footer{
   text-align: center;
@@ -210,7 +211,5 @@ margin: 7% 15%;
   .title-img, .dl-btn{
     margin-top: 10%;
   }
-
-
 
 }
